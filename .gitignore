@@ -46,3 +46,6 @@ next-env.d.ts
 **/invoice-worklog-rules.md
 .cursor/rules/invoice-worklog.mdc
 
+# Full-resolution brand PDF (Workers assets max 25 MiB; site uses compressed public copy)
+/assets/brand-guidelines-original.pdf
+
