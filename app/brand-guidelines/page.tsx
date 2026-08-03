@@ -11,7 +11,7 @@ const PDF_EMBED = `${PDF_SRC}#toolbar=0&navpanes=0&scrollbar=0&view=FitH`;
 
 export default function BrandGuidelinesPage() {
   return (
-    <main className="guide">
+    <main className="guidePage">
       <nav className="nav wrap">
         <a className="logo" href="/">
           <i>SL</i>
